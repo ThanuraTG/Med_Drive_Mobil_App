@@ -1,0 +1,16 @@
+com.example.medics.app-browser-1.5.0-0 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\5ef892b3a3aedca2024561805f4b417a\transformed\browser-1.5.0\res
+com.example.medics.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\6784ca76801ed1d0f4dc17816127e1e7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.medics.app-jetified-window-1.0.0-beta04-2 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\7294778c9ba3aeb2527a5ef3f6df6679\transformed\jetified-window-1.0.0-beta04\res
+com.example.medics.app-lifecycle-runtime-2.3.1-3 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\9d6f30dbff9a5cfbb7a72322eb83b6d5\transformed\lifecycle-runtime-2.3.1\res
+com.example.medics.app-core-1.10.1-4 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\ba04c78a7142153a5ac8d7ab57db880e\transformed\core-1.10.1\res
+com.example.medics.app-jetified-annotation-experimental-1.3.0-5 C:\Users\Thanura Thilak\.gradle\caches\8.9\transforms\f21e8c9acc79cf51b30fcafde9514134\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.medics.app-debug-6 D:\flutter app\Medics-main\android\app\src\debug\res
+com.example.medics.app-main-7 D:\flutter app\Medics-main\android\app\src\main\res
+com.example.medics.app-pngs-8 D:\flutter app\Medics-main\build\app\generated\res\pngs\debug
+com.example.medics.app-resValues-9 D:\flutter app\Medics-main\build\app\generated\res\resValues\debug
+com.example.medics.app-rs-10 D:\flutter app\Medics-main\build\app\generated\res\rs\debug
+com.example.medics.app-mergeDebugResources-11 D:\flutter app\Medics-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.medics.app-mergeDebugResources-12 D:\flutter app\Medics-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.medics.app-merged_res-13 D:\flutter app\Medics-main\build\app\intermediates\merged_res\debug
+com.example.medics.app-packaged_res-14 D:\flutter app\Medics-main\build\path_provider_android\intermediates\packaged_res\debug
+com.example.medics.app-packaged_res-15 D:\flutter app\Medics-main\build\url_launcher_android\intermediates\packaged_res\debug
